@@ -87,8 +87,7 @@ The Q-C2M2 Policy Aligner is designed to support qualitative analysis and mappin
    ```
 
 5. **Access the application**
-   - Frontend: http://localhost:3000
-   - Backend API: http://localhost:5000
+   - WenSite: http://localhost:5000
 
 ### Default Login
 - Username: `admin`
@@ -251,5 +250,6 @@ For support or questions, please contact the development team or create an issue
 - Feature enhancements
 
 ---
+
 
 **Q-C2M2 Policy Aligner** - Empowering cybersecurity policy analysis through intelligent mapping and comprehensive reporting. 
