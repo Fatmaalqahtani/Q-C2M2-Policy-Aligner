@@ -69,7 +69,7 @@ app.get('*', (req, res) => {
 initializeDatabase().then(() => {
   app.listen(PORT, () => {
     console.log(`🚀 Q-C2M2 Policy Aligner Server running on port ${PORT}`);
-    console.log(`📊 API available at http://localhost:${PORT}/api`);
+    console.log(`📊 API available at http://localhost:${PORT}`);
   });
 }).catch((error) => {
   console.error('Failed to initialize database:', error);
