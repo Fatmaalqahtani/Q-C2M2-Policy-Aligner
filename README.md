@@ -34,6 +34,11 @@ The Q-C2M2 Policy Aligner is designed to support qualitative analysis and mappin
 - Maturity level assignment
 - Notes and commentary support
 
+### 📄 Users Management
+- Create or delete users
+- add new user
+- handle users roles
+ 
 ### 🏷️ Thematic Tagging & Coding
 - Custom tag system for text sections
 - Multiple tag support per section
@@ -253,3 +258,4 @@ For support or questions, please contact the development team or create an issue
 
 
 **Q-C2M2 Policy Aligner** - Empowering cybersecurity policy analysis through intelligent mapping and comprehensive reporting. 
+
